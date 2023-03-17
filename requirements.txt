@@ -1,0 +1,6 @@
+matplotlib==3.5.2
+pandas==1.4.4
+pathlib==1.0.1
+torch==1.13.1
+torchinfo==1.7.1
+tiktoken==0.3.1
